@@ -1,2 +1,9 @@
-# react-native-profile-ui
-A simple profile card built using React Native and Flexbox.
+# Profile Card (React Native)
+
+This is a simple profile card UI built using React Native.
+
+## Features
+- Profile Image
+- Name and Role
+- Follow & Message buttons
+- Flexbox layout for alignment
